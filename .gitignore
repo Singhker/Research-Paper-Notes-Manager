@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local research notes and databases
+research_notes.db
+research_notes.db-journal
+research_notes.db-wal
+research_notes.db-shm
+*.sqlite
+*.sqlite3
+
+# Generated research exports
+research_paper_notes.xlsx
+research_paper_notes.csv
+*.xlsx
+*.csv
+
+# Local environment and editor files
+.env
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build output
+build/
+dist/
+*.spec
