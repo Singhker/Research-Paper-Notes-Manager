@@ -35,3 +35,5 @@ desktop.ini
 build/
 dist/
 *.spec
+# Project documentation PDF
+Research_Paper_Notes_Manager_Project_Guide.pdf
